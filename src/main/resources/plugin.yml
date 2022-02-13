@@ -1,0 +1,4 @@
+name: Fortschreiten
+version: '${version}}'
+main: xyz.crafttogether.fortschreiten.Fortschreiten
+api-version: 1.18
